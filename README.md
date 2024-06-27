@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanchari Sen
 - 👀 I’m interested in coding and Physics ;)
-- 🌱 I’m currently learning basics to Java!
+
 
 
 <!---
